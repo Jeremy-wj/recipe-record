@@ -1,0 +1,59 @@
+html {
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #332121;
+    background-color:#fffcf0;
+}
+
+body {
+    width: 900px;
+    margin: 0px auto;
+    padding: 0px 50px 50px 50px;
+}
+
+img[src] {
+    width: 150px;
+    height: 150px;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0px;
+}
+
+li,
+p {
+    font-size: 18px;
+    line-height: 1.25;
+    letter-spacing: 1px;
+}
+
+button {
+    padding: 0;
+    font-size: 12px;
+    height: 2em;
+    margin: auto 0.5em;
+}
+
+.logo_text {
+    display: flex;
+    width: 500px;
+    align-items: center;
+}
+
+#logo_name {
+    margin: 0px 0px 0px 20px;
+    text-align: left;
+    font-size: 60px;
+    line-height: 1;
+}
+
+.footer_text {
+    font-size: 12px
+}
+
+.footer {
+    display: flex;
+}
